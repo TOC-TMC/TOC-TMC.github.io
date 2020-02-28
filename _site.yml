@@ -1,0 +1,22 @@
+title: Projet de science collaborative TOC - Collaborative science project TMC
+output_dir: "."
+
+navbar:
+  title: "Projet de science collaborative TOC - Collaborative science project TMC"
+  type: inverse
+  right:
+    - text: "Français"
+      href: index.html
+    - text: "English"
+      href: english.html
+    - text: " "
+      href: map_capture.html
+
+output:
+  html_document:
+    theme: default
+    css: style.css
+
+#Visual theme ("default", "cerulean", "journal", "flatly"(looks like researchgate), 
+#"darkly", "readable" ( #1 so far), "spacelab", "united", "cosmo", "lumen", 
+##"paper", "sandstone" (not bad), "simplex (ok)", or "yeti"). 

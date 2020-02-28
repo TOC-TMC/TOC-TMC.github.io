@@ -1,0 +1,22 @@
+---
+output: html_document
+---
+```{r setup, include=FALSE}
+htmltools::tagList(rmarkdown::html_dependency_font_awesome())
+```
+
+\
+\
+\
+
+<img src="images/logo3.png" alt="logo" style="height:1.75in;" align="right"/>  <p style="font-size:35px" align="left"> **Help us to understand and predict what are the effects of winter ticks on moose population health of eastern Canada!** </p>
+
+(en construction)
+
+\
+\
+\
+
+<p  align="middle">
+  <img src="images/partners.png" alt="partners" style="width:9in;"/>
+</p>
