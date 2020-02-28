@@ -1,5 +1,5 @@
 ---
-title: "Carte des secteurs de captures - Region where moose where captured"
+title: "Secteurs de captures d'orignaux - Regions where moose were captured"
 date: "Dernière mise à jour = 25-02-2020 = Last update"
 output: html_document
 ---
