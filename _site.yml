@@ -1,4 +1,4 @@
-title: Projet de science collaborative TOC - Collaborative science project TMC
+title: "Projet de science collaborative TOC - Collaborative science project TMC"
 output_dir: "."
 
 navbar:
@@ -9,7 +9,7 @@ navbar:
       href: index.html
     - text: "English"
       href: english.html
-    - text: " "
+    - text: "Carte - Map"
       href: map_capture.html
 
 output:

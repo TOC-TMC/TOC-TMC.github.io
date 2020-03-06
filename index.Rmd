@@ -1,31 +1,78 @@
 ---
-output: html_document
+pagetitle: "TOC"
+output: 
+  html_document:
+    df_print: tibble
+    toc: yes
+    toc_depth: 1
+    toc_float:
+      toc_collapsed: yes
 ---
 ```{r setup, include=FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
 \
-\
-\
 
 <img src="images/logo2.png" alt="logo" style="height:1.75in;" align="right"/> <p style="font-size:35px" align="left"> **Aidez-nous à comprendre et prédire l'effet de la tique d'hiver sur la santé des populations d'orignaux à l'est du Canada !** </p>
 
 \
-\
-
-Ce programme de science collaborative s'inscrit dans les axes de recherche du [Partenariat de recherche sur les relations tique-orignal-climat](https://tiqueorignalclimat.github.io/)
 
 ___
 
-**Comment participer?** 
+# Pour participer 
 
+<p  align="middle">
+Accédez à l'enquête sur ce **[site web <i class="fa fa-external-link "> </i> ](https://survey123.arcgis.com/share/a784696f6a7d40d9a83db5f0c9e88ff1?)** ou encore en scannant ce code QR </p>
 
-Accédez à l'enquête sur ce [site](https://survey123.arcgis.com/share/a784696f6a7d40d9a83db5f0c9e88ff1?) où encore via ce code QR : <img src="images/Projet TOC.png" alt="QRcode" style="height:1in"/>
+<p  align="middle"> <i class="fa fa-arrow-down" style="font-size:36px"></i> </p>
 
-(en construction)
+<p  align="middle">
+<img src="images/Projet TOC.png" alt="QRcode" style="height:1.75in;" align="middle"/>
+</p>
+
+___
+
+# Bref contexte
+
+<p  align="middle"> <i class="fa fa-clock-o" aria-hidden="true" style="font-size:16px"> </i> 0:48 </p>
+
+Ce programme de science collaborative s'inscrit dans les axes de recherche du [Partenariat de recherche sur les relations tique-orignal-climat <i class="fa fa-external-link "> </i>](http://www.sites.google.com/view/tiqueorignalclimat). Ce programme vise à comprendre et prédire la dynamique des interactions entre la tique d’hiver et les populations d’orignaux de l’est du Canada en fonction des conditions climatiques actuelles et anticipées.
+
+Ailleurs dans le Nord de l'Amérique, la tique d'hiver est associée à des baisses de population importantes, et c'est pourquoi nous sollicitons votre aide en tant que chasseur.euse, pêcheur.euse, professionel.le ou simplement enthousiaste de la faune en général. Nous en sommes à la phase pilote; vos suggestions, commentaires, appréciations et questions sont les bienvenues à l'adresse courriel suivante : [toc@bio.ulaval.ca](mailto:toc@bio.ulaval.ca). 
+
+**Vos observations sont cruciales et nous permettent d'obtenir des informations à fine échelle sur les populations d'orignaux. Toutes les observations d'orignaux (avec ou sans photos) ainsi que les photos de caméras trappes (toutes, même si elles ne sont pas triées) sont pertinentes pour dresser un portrait de la situation actuelle au Québec et dans l'est du Canada.** 
+
+**Finalement, soyez assurés que vos informations seront traitées en toute discrétion**
+
+<p  align="middle"> Pour contribuer, **[cliquez ici](#pour-participer)** </p>
+
+___
+
+# Informations
+
+Pour de plus de détails sur le Partenariat de recherche sur les relations tique-orignal-climat, les objectifs, axes de recherche et chercheurs impliqués **[rendez-vous ici <i class="fa fa-external-link " ></i>](http://www.sites.google.com/view/tiqueorignalclimat)**
 
 \
+
+___
+
+# Contactez-nous
+
+Superviseur du projet TOC : Jean-Pierre Tremblay , professeur titulaire
+
+Responsable du Projet de science collaborative : Florent Déry
+
+<i class="glyphicon glyphicon-envelope" style="font-size:16px"> </i> : toc@bio.ulaval.ca
+
+<i class="fa fa-address-card"> </i> : Département de biologie, Université Laval
+1045 av. de la médecine, Québec (Qc), G1V 0A6
+
+\
+
+___
+
+# Partenaires
 \
 \
 
@@ -33,5 +80,7 @@ Accédez à l'enquête sur ce [site](https://survey123.arcgis.com/share/a784696f
   <img src="images/partners.png" alt="partners" style="width:9in;"/>
 </p>
 
+\
+\
 
 

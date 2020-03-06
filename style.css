@@ -3,6 +3,8 @@
 h1 { /* Header 1 */
   font-size: 32px;
   font-weight: bolder;
+  text-align: center;
+
 }
 h2 { /* Header 2 */
     font-size: 26px;
@@ -20,7 +22,7 @@ h4,h5,h6{
 body{
   font-family: Helvetica;
   font-size: 14pt;
-  text-align: left;
+  text-align: justify;
   margin:auto;
 }
 figure {
@@ -34,7 +36,11 @@ figure {
   margin: 0.5em;
   padding: 0.5em;
 }
-
+/*DarkGreen
+.navbar-default {
+  background-color: DarkGreen !important;
+}
+  /*
 /*
 .navbar {
   min-height: 80px;

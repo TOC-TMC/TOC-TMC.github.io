@@ -11,7 +11,7 @@
 
 
 
-<title>index.utf8</title>
+<title>TOC</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -19,6 +19,9 @@
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
@@ -251,6 +254,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -258,6 +324,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -284,7 +360,7 @@ $(document).ready(function () {
   <a href="english.html">English</a>
 </li>
 <li>
-  <a href="map_capture.html"> </a>
+  <a href="map_capture.html">Carte - Map</a>
 </li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -300,31 +376,75 @@ $(document).ready(function () {
 
 
 <p><br />
-<br />
-<br />
 </p>
 <img src="images/logo2.png" alt="logo" style="height:1.75in;" align="right"/>
 <p style="font-size:35px" align="left">
 <strong>Aidez-nous à comprendre et prédire l’effet de la tique d’hiver sur la santé des populations d’orignaux à l’est du Canada !</strong>
 </p>
 <p><br />
-<br />
 </p>
-<p>Ce programme de science collaborative s’inscrit dans les axes de recherche du <a href="https://tiqueorignalclimat.github.io/">Partenariat de recherche sur les relations tique-orignal-climat</a></p>
 <hr />
-<p><strong>Comment participer?</strong></p>
-<p>Accédez à l’enquête sur ce <a href="https://survey123.arcgis.com/share/a784696f6a7d40d9a83db5f0c9e88ff1?">site</a> où encore via ce code QR : <img src="images/Projet%20TOC.png" alt="QRcode" style="height:1in"/></p>
-<p>(en construction)</p>
+<div id="pour-participer" class="section level1">
+<h1>Pour participer</h1>
+<p align="middle">
+Accédez à l’enquête sur ce <strong><a href="https://survey123.arcgis.com/share/a784696f6a7d40d9a83db5f0c9e88ff1?">site web <i class="fa fa-external-link "> </i></a></strong> ou encore en scannant ce code QR
+</p>
+<p align="middle">
+<i class="fa fa-arrow-down" style="font-size:36px"></i>
+</p>
+<p align="middle">
+<img src="images/Projet%20TOC.png" alt="QRcode" style="height:1.75in;" align="middle"/>
+</p>
+<hr />
+</div>
+<div id="bref-contexte" class="section level1">
+<h1>Bref contexte</h1>
+<p align="middle">
+<i class="fa fa-clock-o" aria-hidden="true" style="font-size:16px"> </i> 0:48
+</p>
+<p>Ce programme de science collaborative s’inscrit dans les axes de recherche du <a href="http://www.sites.google.com/view/tiqueorignalclimat">Partenariat de recherche sur les relations tique-orignal-climat <i class="fa fa-external-link "> </i></a>. Ce programme vise à comprendre et prédire la dynamique des interactions entre la tique d’hiver et les populations d’orignaux de l’est du Canada en fonction des conditions climatiques actuelles et anticipées.</p>
+<p>Ailleurs dans le Nord de l’Amérique, la tique d’hiver est associée à des baisses de population importantes, et c’est pourquoi nous sollicitons votre aide en tant que chasseur.euse, pêcheur.euse, professionel.le ou simplement enthousiaste de la faune en général. Nous en sommes à la phase pilote; vos suggestions, commentaires, appréciations et questions sont les bienvenues à l’adresse courriel suivante : <a href="mailto:toc@bio.ulaval.ca">toc@bio.ulaval.ca</a>.</p>
+<p><strong>Vos observations sont cruciales et nous permettent d’obtenir des informations à fine échelle sur les populations d’orignaux. Toutes les observations d’orignaux (avec ou sans photos) ainsi que les photos de caméras trappes (toutes, même si elles ne sont pas triées) sont pertinentes pour dresser un portrait de la situation actuelle au Québec et dans l’est du Canada.</strong></p>
+<p><strong>Finalement, soyez assurés que vos informations seront traitées en toute discrétion</strong></p>
+<p align="middle">
+Pour contribuer, <strong><a href="#pour-participer">cliquez ici</a></strong>
+</p>
+<hr />
+</div>
+<div id="informations" class="section level1">
+<h1>Informations</h1>
+<p>Pour de plus de détails sur le Partenariat de recherche sur les relations tique-orignal-climat, les objectifs, axes de recherche et chercheurs impliqués <strong><a href="http://www.sites.google.com/view/tiqueorignalclimat">rendez-vous ici <i class="fa fa-external-link " ></i></a></strong></p>
 <p><br />
-<br />
+</p>
+<hr />
+</div>
+<div id="contactez-nous" class="section level1">
+<h1>Contactez-nous</h1>
+<p>Superviseur du projet TOC : Jean-Pierre Tremblay , professeur titulaire</p>
+<p>Responsable du Projet de science collaborative : Florent Déry</p>
+<p><i class="glyphicon glyphicon-envelope" style="font-size:16px"> </i> : <a href="mailto:toc@bio.ulaval.ca" class="email">toc@bio.ulaval.ca</a></p>
+<p><i class="fa fa-address-card"> </i> : Département de biologie, Université Laval 1045 av. de la médecine, Québec (Qc), G1V 0A6</p>
+<p><br />
+</p>
+<hr />
+</div>
+<div id="partenaires" class="section level1">
+<h1>Partenaires</h1>
+<p><br />
 <br />
 </p>
 <p align="middle">
 <img src="images/partners.png" alt="partners" style="width:9in;"/>
 </p>
+<p><br />
+<br />
+</p>
+</div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -357,6 +477,32 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_').toLowerCase();
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
