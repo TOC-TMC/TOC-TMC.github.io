@@ -37,7 +37,7 @@ ___
 
 <p  align="middle"> <i class="fa fa-clock-o" aria-hidden="true" style="font-size:16px"> </i> 0:48 </p>
 
-Ce programme de science collaborative s'inscrit dans les axes de recherche du [Partenariat de recherche sur les relations tique-orignal-climat <i class="fa fa-external-link "> </i>](http://www.sites.google.com/view/tiqueorignalclimat). Ce programme vise à comprendre et prédire la dynamique des interactions entre la tique d’hiver et les populations d’orignaux de l’est du Canada en fonction des conditions climatiques actuelles et anticipées.
+Ce programme de science collaborative s'inscrit dans les axes de recherche du **[Partenariat de recherche sur les relations tique-orignal-climat <i class="fa fa-external-link "> </i>](http://www.sites.google.com/view/tiqueorignalclimat)**. Ce programme vise à comprendre et prédire la dynamique des interactions entre la tique d’hiver et les populations d’orignaux de l’est du Canada en fonction des conditions climatiques actuelles et anticipées.
 
 Ailleurs dans le Nord de l'Amérique, la tique d'hiver est associée à des baisses de population importantes, et c'est pourquoi nous sollicitons votre aide en tant que chasseur.euse, pêcheur.euse, professionel.le ou simplement enthousiaste de la faune en général. Nous en sommes à la phase pilote; vos suggestions, commentaires, appréciations et questions sont les bienvenues à l'adresse courriel suivante : [toc@bio.ulaval.ca](mailto:toc@bio.ulaval.ca). 
 
