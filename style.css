@@ -19,15 +19,17 @@ h4,h5,h6{
   font-size: 16pt;
   font-style: italic; 
 }
+
+/* text body */
+
 body{
   font-family: Helvetica;
-  font-size: 14pt;
-  text-align: justify;
+  font-size: 2em;
+  text-align: left;
   margin:auto;
 }
+
 figure {
-  float: right;
-  width: 30%;
   text-align: center;
   font-style: italic;
   font-size: smaller;
@@ -36,24 +38,63 @@ figure {
   margin: 0.5em;
   padding: 0.5em;
 }
-/*DarkGreen
-.navbar-default {
-  background-color: DarkGreen !important;
-}
-  /*
-/*
-.navbar {
-  min-height: 80px;
+
+
+.justtext{
+  font-family: Helvetica;
+  text-align: justify;
+  margin:auto;
 }
 
-.navbar-brand {
-  padding: 0 15px;
-  height: 80px;
-  line-height: 80px;
+.coltext{
+  font-family: Helvetica;
+  text-align: center;
+  margin:auto;
 }
 
-.navbar-toggle {
-  margin-top: 23px;
-  padding: 9px 10px !important;
+.column-left{
+  display: inline-block;
+  float: left;
+  width: 47.5%;
+  min-width: 1in;
+  text-align: left;
 }
-/*
+
+.column-center{
+  display: inline-block;
+  width: 5%;
+  min-width: 0.25in;
+  text-align: center;
+}
+
+.column-right{
+  display: inline-block;
+  float: right;
+  width: 47.5%;
+  min-width: 1in;
+  text-align: left;
+}
+
+/* Container */
+
+.container {
+  position: relative;
+  width:100%;
+  max-width:9in;
+  color: black;
+}
+
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 30%;
+  left: 0%;
+}
+
+.tagline {
+    font-size: 4.25vw;
+    text-align: left;
+    color:  #4d4d4d;
+    line-height:1;
+
+}
