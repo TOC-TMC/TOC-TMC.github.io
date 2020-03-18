@@ -1,12 +1,6 @@
 ---
 pagetitle: "TOC"
-output: 
-  html_document:
-    df_print: tibble
-    toc: yes
-    toc_depth: 1
-    toc_float:
-      toc_collapsed: yes
+output: html_document
 ---
 ```{r setup, include=FALSE}
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
@@ -14,73 +8,129 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 \
 
-<img src="images/logo2.png" alt="logo" style="height:1.75in;" align="right"/> <p style="font-size:35px" align="left"> **Aidez-nous à comprendre et prédire l'effet de la tique d'hiver sur la santé des populations d'orignaux à l'est du Canada !** </p>
+ <div class="container">
+  <img src="images/logo3.png" alt="logo" style="width:100%; height:auto; max-width:100%"/>
+  <div class="top-left">
+  <div class="tagline" > <p>**À l'affut !<br>Traquez les orignaux<br>& la tique d'hiver**</p> </div>
+  </div>
+</div> 
 
 \
 
-___
+<p style="font-size:12px" align="middle" style="text-width:50%"> \*Phase Pilote - ce protocole sera adapté suivant son utilisation en 2020. </p>
 
-# Pour participer 
+\
 
-<p  align="middle">
-Accédez à l'enquête sur ce **[site web <i class="fa fa-external-link "> </i> ](https://survey123.arcgis.com/share/a784696f6a7d40d9a83db5f0c9e88ff1?)** ou encore en scannant ce code QR </p>
+<!---
+ou : 
+Traquer la tique d'hiver pour le bien des populations d'orignaux
+Suivre la tique d'hiver pour le bien des populations d'orignaux
+Pister la tique d'hiver pour le bien des populations d'orignaux
+Programme de surveillance des populations d'orignaux et de la tique d'hiver
+La tique d'hiver : enquête sur un meurtier d'orignaux
+Chasse aux images
+À l'affut : Traquez les orignaux et la tique d'hiver
+
+-->
+
+<div class="container">
+
+<div class="column-left"> 
+<p style="font-size:4vw;" align="middle"> **Nous avons besoin de vos observations d'orignaux!** </p>
+
+\
+
+<div class="coltext">
+**Vos observations sont cruciales** et nous permettent d'obtenir des informations à fine échelle sur les populations d'orignaux. 
+</div>
+
+
+</div>
+
+<div class="column-center">
+</div>
+
+<div class="column-right"> 
+
+<p style="font-size:4vw;" align="middle">**Pour participer**</p>
+
+\
+
+<div class="coltext">
+
+<p  align="middle" >
+Accédez à l'enquête sur ce **[site web <i class="fa fa-external-link "> </i> ](https://survey123.arcgis.com/share/a784696f6a7d40d9a83db5f0c9e88ff1?){target="_blank"}** ou en<br>scannant ce code QR </p>
+
+</div>
 
 <p  align="middle"> <i class="fa fa-arrow-down" style="font-size:36px"></i> </p>
 
 <p  align="middle">
-<img src="images/Projet TOC.png" alt="QRcode" style="height:1.75in;" align="middle"/>
+<img src="images/Projet TOC.png" alt="QRcode" style="width:25%; min-width:1in" align="middle"/>
 </p>
+</div>
+
+</div>
 
 ___
-
-# Bref contexte
-
-<p  align="middle"> <i class="fa fa-clock-o" aria-hidden="true" style="font-size:16px"> </i> 0:48 </p>
-
-Ce programme de science collaborative s'inscrit dans les axes de recherche du **[Partenariat de recherche sur les relations tique-orignal-climat <i class="fa fa-external-link "> </i>](http://www.sites.google.com/view/tiqueorignalclimat)**. Ce programme vise à comprendre et prédire la dynamique des interactions entre la tique d’hiver et les populations d’orignaux de l’est du Canada en fonction des conditions climatiques actuelles et anticipées.
-
-Ailleurs dans le Nord de l'Amérique, la tique d'hiver est associée à des baisses de population importantes, et c'est pourquoi nous sollicitons votre aide en tant que chasseur.euse, pêcheur.euse, professionel.le ou simplement enthousiaste de la faune en général. Nous en sommes à la phase pilote; vos suggestions, commentaires, appréciations et questions sont les bienvenues à l'adresse courriel suivante : [toc@bio.ulaval.ca](mailto:toc@bio.ulaval.ca). 
-
-**Vos observations sont cruciales et nous permettent d'obtenir des informations à fine échelle sur les populations d'orignaux. Toutes les observations d'orignaux (avec ou sans photos) ainsi que les photos de caméras trappes (toutes, même si elles ne sont pas triées) sont pertinentes pour dresser un portrait de la situation actuelle au Québec et dans l'est du Canada.** 
-
-**Finalement, soyez assurés que vos informations seront traitées en toute discrétion**
-
-<p  align="middle"> Pour contribuer, **[cliquez ici](#pour-participer)** </p>
-
-___
-
-# Informations
-
-Pour de plus de détails sur le Partenariat de recherche sur les relations tique-orignal-climat, les objectifs, axes de recherche et chercheurs impliqués **[rendez-vous ici <i class="fa fa-external-link " ></i>](http://www.sites.google.com/view/tiqueorignalclimat)**
 
 \
 
+**Toutes les observations d'orignaux sont pertinentes, même si le pelage ne semble pas être affecté**:
+<figure style="width:20%; float:right; min-width:1in">
+<img src="images/ticks_cropped.jpg" style="width:30%; min-width:1in" alt="ticks">
+<figcaption>Tiques d'hiver<br>au stade adulte;<br>® D. De Pierre</figcaption>
+</figure>
+
+* Observation d'orignal sans photo
+* Observation d'orignal avec photo(s) 
+* Photos de caméras de surveillance <br>(caméras de chasse)
+
+\
+
+Vos localisations *ne seront pas partagées au grand public* et ne serviront qu'à dresser le portrait actuel et futur des populations d'orignaux et de la tique d'hiver.
+
 ___
+
+\
+
+# Contexte
+
+<div class="justtext">
+Ce programme de science collaborative s'inscrit dans les axes de recherche du **[Partenariat de recherche sur les relations tique-orignal-climat <i class="fa fa-external-link "> </i>](http://www.sites.google.com/view/tiqueorignalclimat){target="_blank"}**.  Ce partenariat vise à comprendre et prédire la dynamique des interactions entre la tique d’hiver et les populations d’orignaux de l’est du Canada en fonction des conditions climatiques actuelles et anticipées.
+
+Ailleurs dans le Nord de l'Amérique, la tique d'hiver est associée à des baisses de population importantes, et c'est pourquoi nous sollicitons votre aide en tant que chasseur.euse, pêcheur.euse, professionel.le ou randonneur.euse. 
+
+Nous en sommes à la phase pilote; vos suggestions, commentaires, appréciations et questions sont les bienvenues à l'adresse courriel suivante : [toc@bio.ulaval.ca](mailto:toc@bio.ulaval.ca). 
+Le développement du programme de science collaborative est dirigé par une équipe de recherche basée à l'Université Laval.
+</div>
+
+\
+
+# Information
+
+Pour de plus de détails sur le Partenariat de recherche sur les relations tique-orignal-climat, les objectifs, axes de recherche et chercheurs impliqués **[rendez-vous ici <i class="fa fa-external-link " ></i>](http://www.sites.google.com/view/tiqueorignalclimat){target="_blank"}.**
+
+\
 
 # Contactez-nous
 
-Superviseur du projet TOC : Jean-Pierre Tremblay , professeur titulaire
+<i class="fa fa-user-circle" ></i> Superviseur du projet TOC : Jean-Pierre Tremblay , professeur titulaire
 
-Responsable du Projet de science collaborative : Florent Déry
+<i class="fa fa-user-o" ></i> Responsable du Projet de science collaborative : Florent Déry
 
-<i class="glyphicon glyphicon-envelope" style="font-size:16px"> </i> : toc@bio.ulaval.ca
+<i class="glyphicon glyphicon-envelope"> </i> toc@bio.ulaval.ca
 
-<i class="fa fa-address-card"> </i> : Département de biologie, Université Laval
+<i class="fa fa-address-card"> </i> Département de biologie, Université Laval
 1045 av. de la médecine, Québec (Qc), G1V 0A6
 
 \
 
-___
-
 # Partenaires
-\
-\
-
-<p  align="middle">
-  <img src="images/partners.png" alt="partners" style="width:9in;"/>
-</p>
 
 \
-\
 
+<div class="container">
+  <img src="images/partners.png" alt="partners" style="width:100%; height:auto;"/>
+</div>
 

@@ -1,16 +1,23 @@
-title: "Projet de science collaborative TOC - Collaborative science project TMC"
+title: "Science collaborative TOC - Collaborative science TMC"
 output_dir: "."
 
 navbar:
-  title: "Projet de science collaborative TOC - Collaborative science project TMC"
   type: inverse
   right:
-    - text: "Français"
+    - text: "FR"
       href: index.html
-    - text: "English"
+      menu:
+        - text: "Contexte"
+          href: "#contexte"
+        - text: "Information"
+          href: "#information"
+        - text: "Contact"
+          href: "#contactez-nous"
+        - text: "Partenaires"
+          href: "#Partenaires"
+
+    - text: "EN"
       href: english.html
-    - text: "Carte - Map"
-      href: map_capture.html
 
 output:
   html_document:
