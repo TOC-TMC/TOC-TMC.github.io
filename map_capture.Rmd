@@ -8,16 +8,7 @@ output: html_document
 ```{r map_capture, echo=FALSE, message=FALSE, warning=FALSE}
 require(tidyverse); require(sf); require(knitr); require(leaflet)
 
-secteurs <- tribble(
-  ~what, ~latitude, ~longitude, 
-  "Nouveau-Brunswick", 46.0640097,-66.2818157,
-  "Capitale-Nationale",47.2110091,-70.7304825,
-  "Forillon", 48.9031234,-64.3796644, 
-  "Vérendrye - Hautes Laurentides", 47.140186, -77.015181,
-  "Bas-St-Laurent",48.112315, -67.795112
-)
-secteurs$veaux=c(24,24,8,19,24)
-secteurs$adultes=c(0,0,15,0,0)
+secteurs=read.csv("fichiers/secteurs.csv", header=TRUE, dec=".", sep=";")
 
 secteurs_sf =secteurs %>%
   st_as_sf(coords = c("longitude", "latitude"), crs = 4326) #What does crs mean?
