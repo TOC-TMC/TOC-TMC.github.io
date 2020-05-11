@@ -8,13 +8,13 @@ navbar:
       href: index.html
       menu:
         - text: "Contexte"
-          href: "#contexte"
+          href: https://toc-tmc.github.io/#contexte
         - text: "Information"
-          href: "#information"
+          href: https://toc-tmc.github.io/#information
         - text: "Contact"
-          href: "#contactez-nous"
+          href: https://toc-tmc.github.io/#contactez-nous
         - text: "Partenaires"
-          href: "#Partenaires"
+          href: https://toc-tmc.github.io/#Partenaires
 
     - text: "EN"
       href: english.html
