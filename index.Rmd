@@ -103,15 +103,15 @@ ___
 
 <p style="font-size:calc(10px + 0.5vw); line-height:1.05;" align="center">**Tutoriels disponibles**:
 
-* Comment soumettre une observation d'orignal
+* Comment soumettre une observation d'orignal: 
 
-<iframe width="420" height="315"
+<iframe width="220" height="315"
 src="https://www.youtube.com/embed/NnQsIbl3NTY">
 </iframe> 
 
-* Soumettre des photos de caméra-trappe (printemps)
+* Soumettre des photos de caméra-trappe (printemps): 
 
-<iframe width="720" height="315"
+<iframe width="100%" height="315"
 src="https://www.youtube.com/embed/0ofBROTzwos">
 </iframe> 
 
