@@ -18,6 +18,15 @@ navbar:
 
     - text: "EN"
       href: english.html
+      menu:
+        - text: "Context"
+          href: https://toc-tmc.github.io/english#context
+        - text: "Information"
+          href: https://toc-tmc.github.io/english#information
+        - text: "Contact"
+          href: https://toc-tmc.github.io/english#contactez-us
+        - text: "Partenaires"
+          href: https://toc-tmc.github.io/english#Partners
 
 output:
   html_document:

@@ -7,18 +7,148 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
 \
-\
-\
 
+<div class="container">
 
-<img src="images/logo3.png" alt="logo" style="height:1.75in;" align="right"/>  <p style="font-size:35px" align="left"> **Help us to understand and predict what are the effects of winter ticks on moose population health of eastern Canada! - in construction** </p>
-
-
+<div class="column-left" style="width:45%;"> 
+<div class="tagline" style="text-align:center"> 
 
 \
-\
+
+**On the lookout!<br>Track moose<br>& winter ticks** 
+
+</div>
+</div>
+
+<div class="column-center"> </div>
+
+<div class="column-right" style="width:55%;"> 
+<img src="images/logo3.png" alt="logo" style="width:100%; height:auto; max-width:100%"/>
+</div>
+
+</div>
+
 \
 
-<p  align="middle">
-  <img src="images/partners.png" alt="partners" style="width:9in;"/>
+<p style="font-size:10px" align="middle"> \*Pilote phase - this program will be adapted and avalible to broad public after 2020.</p>
+
+\
+
+<p style="font-size:calc(10px + 1.1vw); line-height:1.05;" align="middle"> **We need your moose observations;** <br>they enable us to access fine scale information on moose populations</p>
+
+___
+
+<div class="container">
+<div class="column-left"> 
+<p style="font-size:calc(10px + 1.5vw);" align="middle">**How can you contribute?**</p>
+
+<p  style="font-size:calc(10px + 0.5vw); line-height:1.05;" align="middle"> This survey is accessible on this **[website <i class="fa fa-external-link "> </i> ](https://arcg.is/nKf8n){target="_blank"}** <br> or by scanning this QRcode <i class="fa fa-arrow-right" style="font-size:calc(10px + 0.7vw)"></i><br> 
+
+The survey is available online or by using Survey123 App</p>
+
+</div>
+
+<div class="column-center"> </div>
+
+<div class="column-right" style="text-align:center;"> 
+<img src="images/codeqr_scicoll.png" alt="QRcode" style="width:40%; min-width:1in" align="center"/>
+</div>
+
+</div>
+
+___
+
+\
+
+<div class="container">
+
+<div class="column-left"> 
+<p style="font-size:calc(10px + 0.5vw); line-height:1.05;" align="left">**All moose observations are welcomed, even if moose pelage seems unaltered by winter ticks**:
+
+* Observation of a moose without photo
+* Observation of a moose with photo(s) 
+* Camera trap photos <br>(Hunting cameras; spring and summer only)
 </p>
+
+</div><!--- column closed -->
+
+<div class="column-center"> </div>
+
+<div class="column-right" style="text-align:center;"> 
+
+<figure style="width:50%; min-width:1.2in; max-width:3in" align="center">
+<img src="images/ticks_cropped.jpg" style="width:40%; min-width:1in; max-width:2.8in" alt="ticks" align="center">
+<figcaption>Winter ticks<br>at adult stage;<br>® D. De Pierre</figcaption>
+</figure>
+
+</div><!--- column closed -->
+</div> <!--- container closed -->
+
+
+\
+
+\
+
+<p style="font-size:calc(10px + 0.5vw); line-height:1.05;" align="center">**Tutorials available (in french)**:
+
+* Comment soumettre une observation d'orignal: 
+
+<iframe width="220" height="315"
+src="https://www.youtube.com/embed/NnQsIbl3NTY">
+</iframe> 
+
+* Soumettre des photos de caméra-trappe (printemps): 
+
+<iframe width="100%" height="315"
+src="https://www.youtube.com/embed/0ofBROTzwos">
+</iframe> 
+
+</p>
+
+\
+
+\
+
+# Contexte
+
+<div class="justtext">
+<p style="font-size:calc(10px + 0.2vw); line-height:1.05;" align="middle">
+This collaborative science program is one of the main research axis of the **[the research partnership on Ticks-Moose-Climate (TMC) interactions<i class="fa fa-external-link "> </i>](http://www.sites.google.com/view/tiqueorignalclimat){target="_blank"}**. This research partnership aims at understanding and prediciting how the interaction between winter tick and climate impact moose population dynamics in Eastern Canada, considering actual and futur climate projections. 
+
+Elsewhere in North America, winter ticks has been related to substancial population declines, and this is why we ask you to contribute as hunters, anglers, wildlife professionals or hikers, to help us gather critical information that will allow us to answer important questions. 
+
+We are actually starting a pilot phase. We welcome your suggestions, comments, insights or questions are welcomed at this mail adress [toc@bio.ulaval.ca](mailto:toc@bio.ulaval.ca). The developement of this collaborative science program is lead by a research team based at University Laval, in Québec city.
+
+</p>
+
+</div>
+
+\
+
+# Information
+
+For more information on this research parntership, its objectives and research axis or more broadly  on ticks, moose and climate interactions, please have a look to **[this site <i class="fa fa-external-link " ></i>](http://www.sites.google.com/view/tiqueorignalclimat){target="_blank"}.**
+
+\
+
+# Contactez-us
+
+<i class="fa fa-user-circle" ></i> Supervisor of TMC research partnership : Jean-Pierre Tremblay 
+
+<i class="fa fa-user-o" ></i> Responsible of the collaborative science program: Florent Déry
+
+<i class="glyphicon glyphicon-envelope"> </i> toc@bio.ulaval.ca
+
+<i class="fa fa-address-card"> </i> Département de biologie, Université Laval
+1045 av. de la médecine, Québec (Qc), G1V 0A6
+
+\
+
+# Partners
+
+\
+
+<div class="container">
+  <img src="images/partners.png" alt="partners" style="width:100%; height:auto;"/>
+</div>
+

@@ -15,7 +15,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 \
 
-**À l'affut !<br>Traquez les orignaux<br>& la tique d'hiver** 
+**À l'affût !<br>Traquez les orignaux<br>& la tique d'hiver** 
 
 </div>
 </div>
