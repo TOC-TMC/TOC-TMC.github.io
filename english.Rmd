@@ -8,6 +8,8 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 \
 
+(in construction)
+
 <div class="container">
 
 <div class="column-left" style="width:45%;"> 
@@ -30,7 +32,7 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 \
 
-<p style="font-size:10px" align="middle"> \*Pilote phase - this program will be adapted and avalible to broad public after 2020.</p>
+<p style="font-size:10px" align="middle"> \*Pilote phase - this program will be adapted and available to broad public after 2020.</p>
 
 \
 
@@ -63,7 +65,7 @@ ___
 <div class="container">
 
 <div class="column-left"> 
-<p style="font-size:calc(10px + 0.5vw); line-height:1.05;" align="left">**All moose observations are welcomed, even if moose pelage seems unaltered by winter ticks**:
+<p style="font-size:calc(10px + 0.5vw); line-height:1.05;" align="left">**All moose observations are welcome, even if moose pelage seems unaltered by winter ticks**:
 
 * Observation of a moose without photo
 * Observation of a moose with photo(s) 
@@ -109,15 +111,15 @@ src="https://www.youtube.com/embed/0ofBROTzwos">
 
 \
 
-# Contexte
+# Context
 
 <div class="justtext">
 <p style="font-size:calc(10px + 0.2vw); line-height:1.05;" align="middle">
-This collaborative science program is one of the main research axis of the **[the research partnership on Ticks-Moose-Climate (TMC) interactions<i class="fa fa-external-link "> </i>](http://www.sites.google.com/view/tiqueorignalclimat){target="_blank"}**. This research partnership aims at understanding and prediciting how the interaction between winter tick and climate impact moose population dynamics in Eastern Canada, considering actual and futur climate projections. 
+This collaborative science program is one of the main research axis of the **[the research partnership on Ticks-Moose-Climate (TMC) interactions <i class="fa fa-external-link "> </i>](http://www.sites.google.com/view/tiqueorignalclimat){target="_blank"}**. This research partnership aims to understand and predict how winter tick and climate interaction impacts moose population dynamics in eastern Canada, considering actual and futur climate projections. 
 
-Elsewhere in North America, winter ticks has been related to substancial population declines, and this is why we ask you to contribute as hunters, anglers, wildlife professionals or hikers, to help us gather critical information that will allow us to answer important questions. 
+In several areas in North America, winter ticks has been related to substancial population declines, and this is why we ask you to contribute as hunters, anglers, wildlife professionals or hikers, to help us gather critical information that will provide answers to important questions. 
 
-We are actually starting a pilot phase. We welcome your suggestions, comments, insights or questions are welcomed at this mail adress [toc@bio.ulaval.ca](mailto:toc@bio.ulaval.ca). The developement of this collaborative science program is lead by a research team based at University Laval, in Québec city.
+We are actually starting the pilot phase of this program. We welcome your suggestions, comments, insights or questions at this mail adress [toc@bio.ulaval.ca](mailto:toc@bio.ulaval.ca). The developement of this collaborative science program is lead by a research team based at University Laval, in Québec city.
 
 </p>
 
@@ -127,11 +129,11 @@ We are actually starting a pilot phase. We welcome your suggestions, comments, i
 
 # Information
 
-For more information on this research parntership, its objectives and research axis or more broadly  on ticks, moose and climate interactions, please have a look to **[this site <i class="fa fa-external-link " ></i>](http://www.sites.google.com/view/tiqueorignalclimat){target="_blank"}.**
+For more information on this research partnership, its objectives and research axis or more broadly  on ticks, moose and climate interactions, please have a look to **[this site <i class="fa fa-external-link " ></i>](http://www.sites.google.com/view/tiqueorignalclimat){target="_blank"}.**
 
 \
 
-# Contactez-us
+# Contact-us
 
 <i class="fa fa-user-circle" ></i> Supervisor of TMC research partnership : Jean-Pierre Tremblay 
 
