@@ -96,7 +96,9 @@ ___
 </div><!--- column closed -->
 </div> <!--- container closed -->
 
+
 \
+
 \
 
 <p style="font-size:calc(10px + 0.5vw); line-height:1.05;" align="center">**Tutoriels disponibles**:
@@ -115,9 +117,8 @@ src="https://www.youtube.com/embed/0ofBROTzwos">
 
 </p>
 
-___
-
 \
+
 \
 
 # Contexte
