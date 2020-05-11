@@ -96,6 +96,7 @@ ___
 </div><!--- column closed -->
 </div> <!--- container closed -->
 
+
 \
 \
 
@@ -114,8 +115,6 @@ src="https://www.youtube.com/embed/0ofBROTzwos">
 </iframe> 
 
 </p>
-
-___
 
 \
 \
