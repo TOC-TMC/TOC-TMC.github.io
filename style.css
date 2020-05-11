@@ -4,11 +4,12 @@ h1 { /* Header 1 */
   font-size: 32px;
   font-weight: bolder;
   text-align: center;
-
+    color: black;
 }
 h2 { /* Header 2 */
     font-size: 26px;
     font-weight: bolder;
+    color: black;
 }
 h3 { /* Header 3 */
   font-size: 20px;
@@ -24,19 +25,17 @@ h4,h5,h6{
 
 body{
   font-family: Helvetica;
-  font-size: 2em;
+  font-size: calc(10px + 0.5vw);
   text-align: left;
   margin:auto;
+  color: black;
 }
 
 figure {
-  text-align: center;
   font-style: italic;
   font-size: smaller;
   text-indent: 0;
   border: thin silver solid;
-  margin: 0.5em;
-  padding: 0.5em;
 }
 
 
@@ -72,7 +71,6 @@ figure {
   float: right;
   width: 47.5%;
   min-width: 1in;
-  text-align: left;
 }
 
 /* Container */
@@ -92,9 +90,8 @@ figure {
 }
 
 .tagline {
-    font-size: 3.5vw;
-    text-align: left;
-    color:  #4d4d4d;
-    line-height:1;
-
+  font-size:calc(13px + 1.5vw);
+  text-align: left;
+  color: black;
+  line-height:1;
 }
