@@ -25,7 +25,7 @@ navbar:
           href: https://toc-tmc.github.io/english#information
         - text: "Contact"
           href: https://toc-tmc.github.io/english#contact-us
-        - text: "Partenaires"
+        - text: "Partners"
           href: https://toc-tmc.github.io/english#Partners
 
 output:

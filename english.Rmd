@@ -44,15 +44,18 @@ ___
 <div class="column-left"> 
 <p style="font-size:calc(10px + 1.5vw);" align="middle">**How can you contribute?**</p>
 
-<p  style="font-size:calc(10px + 0.5vw); line-height:1.05;" align="middle"> This survey is accessible on this **[website <i class="fa fa-external-link "> </i> ](https://arcg.is/nKf8n){target="_blank"}** <br> or by scanning this QRcode <i class="fa fa-arrow-right" style="font-size:calc(10px + 0.7vw)"></i><br> 
+<p  style="font-size:calc(10px + 0.5vw); line-height:1.05;" align="middle"> This survey is accessible on this **[website <i class="fa fa-external-link "> </i> ](https://arcg.is/nKf8n){target="_blank"}** <br> or by scanning this QR code <i class="fa fa-arrow-right" style="font-size:calc(10px + 0.7vw)"></i><br> 
 
-The survey is available online or by using Survey123 App</p>
+The survey is also available by using Survey123 App</p>
 
 </div>
 
 <div class="column-center"> </div>
 
 <div class="column-right" style="text-align:center;"> 
+
+\
+
 <img src="images/codeqr_scicoll.png" alt="QRcode" style="width:40%; min-width:1in" align="center"/>
 </div>
 
@@ -109,17 +112,15 @@ src="https://www.youtube.com/embed/0ofBROTzwos">
 
 \
 
-\
-
 # Context
 
 <div class="justtext">
 <p style="font-size:calc(10px + 0.2vw); line-height:1.05;" align="middle">
-This collaborative science program is one of the main research axis of the **[the research partnership on Ticks-Moose-Climate (TMC) interactions <i class="fa fa-external-link "> </i>](http://www.sites.google.com/view/tiqueorignalclimat){target="_blank"}**. This research partnership aims to understand and predict how winter tick and climate interaction impacts moose population dynamics in eastern Canada, considering actual and futur climate projections. 
+This collaborative science program is one of the main research axis of the **[the research partnership on Ticks-Moose-Climate (TMC) interactions <i class="fa fa-external-link "> </i>](http://www.sites.google.com/view/tiqueorignalclimat){target="_blank"}**. This research partnership aims to understand and predict how winter tick and climate interaction impacts moose population dynamics in eastern Canada, considering actual and future climate projections. 
 
-In several areas in North America, winter ticks has been related to substancial population declines, and this is why we ask you to contribute as hunters, anglers, wildlife professionals or hikers, to help us gather critical information that will provide answers to important questions. 
+In several areas in North America, winter tick has been related to substantial population declines, and this is why we need your contribution as hunters, anglers, wildlife professionals or hikers. Your observations will help us to gather critical information that will help to ensure sustainable management of moose populations as they face increased winter tick infestations. 
 
-We are actually starting the pilot phase of this program. We welcome your suggestions, comments, insights or questions at this mail adress [toc@bio.ulaval.ca](mailto:toc@bio.ulaval.ca). The developement of this collaborative science program is lead by a research team based at University Laval, in Québec city.
+We are actually starting the pilot phase of this program. Your suggestions, comments, insights or questions are welcome at this mail address [toc@bio.ulaval.ca](mailto:toc@bio.ulaval.ca). The development of this collaborative science program is lead by a research team based at University Laval, in Québec city.
 
 </p>
 
