@@ -5,7 +5,7 @@ navbar:
   type: inverse
   right:
     - text: "FR"
-      href: index.html
+      href: https://toc-tmc.github.io/
       menu:
         - text: "Contexte"
           href: https://toc-tmc.github.io/#contexte
@@ -14,10 +14,10 @@ navbar:
         - text: "Contact"
           href: https://toc-tmc.github.io/#contactez-nous
         - text: "Partenaires"
-          href: https://toc-tmc.github.io/#Partenaires
+          href: https://toc-tmc.github.io/#partenaires
 
     - text: "EN"
-      href: english.html
+      href:  https://toc-tmc.github.io/english.html
       menu:
         - text: "Context"
           href: https://toc-tmc.github.io/english#context
@@ -26,7 +26,7 @@ navbar:
         - text: "Contact"
           href: https://toc-tmc.github.io/english#contact-us
         - text: "Partners"
-          href: https://toc-tmc.github.io/english#Partners
+          href: https://toc-tmc.github.io/english#partners
 
 output:
   html_document:
