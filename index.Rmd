@@ -77,6 +77,8 @@ Au besoin, n'hésitez pas à consultez les [tutoriels](#tutoriels) pour vous gui
 
 **Comment transmettre le formulaire**: Assurez-vous d'envoyer vos observations *lorsque vous avez accès à un réseau wifi ou cellulaire (3G) stable*. Autrement, les informations sont stockées (emprisonnées) sur votre téléphone et ne nous sont pas envoyées. Merci de votre collaboration!
 
+Si votre observation d'orignal inclut **plusieurs photos** ou encore si vous soumettez des photos de caméra de surveillance, ces photos peuvent être envoyées par courriel (un ou plusieurs courriels, dépendant de la limite de votre service de messagerie courriel) ou par WeTransfer (voir la section [tutoriels](#tutoriels) au besoin). Si vous éprouvez des difficultés à nous transférer vos images, n'hésitez pas à nous contacter via le courriel [toc@bio.ulaval.ca](mailto:toc@bio.ulaval.ca). 
+
 
 ___
 
@@ -110,7 +112,7 @@ Le développement du programme de science collaborative est dirigé par une équ
 src="https://www.youtube.com/embed/bIZyCOD1uB8">
 </iframe> 
 
-* Soumettre des photos de caméra de surveillance (printemps): 
+* Soumettre des photos de caméra de surveillance via WeTransfer (printemps): 
 
 <iframe width="100%" height="315"
 src="https://www.youtube.com/embed/0ofBROTzwos">
