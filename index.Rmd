@@ -125,7 +125,7 @@ src="https://www.youtube.com/embed/0ofBROTzwos">
 
 # Information
 
-Pour de plus de détails sur le partenariat de recherche sur les relations tique-orignal-climat, les objectifs, axes de recherche et chercheurs impliqués, un site web sera bien tôt disponible concernant le projet complet, et diffusé ici notamment.
+Pour plus de détails sur le partenariat de recherche sur les relations tique-orignal-climat, les objectifs, axes de recherche et chercheurs impliqués, un site web sera bientôt disponible concernant le projet complet, et diffusé ici notamment.
 
 <!--- **[rendez-vous ici <i class="fa fa-external-link " ></i>](http://www.sites.google.com/view/tiqueorignalclimat){target="_blank"}.** -->
 
